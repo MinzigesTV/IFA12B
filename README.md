@@ -1,5 +1,7 @@
 ﻿# Readme
 
+Dieses Git-Repo ist hauptsächlich als Sammelstelle für alles "Aufgeschriebene" gedacht.
+
 ## Markdown
 
 - Syntax-Doku: [Markdownguide](https://www.markdownguide.org/basic-syntax/)

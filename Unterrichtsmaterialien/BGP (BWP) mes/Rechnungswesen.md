@@ -77,7 +77,7 @@ Das Inventar besteht aus drei Teilen:
 
 Es liegen folgende Angaben der Müller GmbH aus der Inventur vor:
 
-Pkw Audi 30.000,-, Betriebsgebäude 500.000,-, Pkw Mercedes 40.000,-, Waren 50.000,-, Forderungen 4.000,-, Bankguthaben 25.000,-, Bargeld in der Kasse 6.000,-, Pkw Opel 25.000,-, Pkw BMW 50.000,-, Darlehen bei der Deutschen Bank 130.000,-,
+Pkw Audi 30.000,-, Betriebsgebäude 500.000,-, Pkw Mercedes 40.000,-, Waren 50.000,-, Forderungen 4.000,-, Bankguthaben 25.000,-, Bargeld in der Kasse 6.000,-, Pkw Opel 25.000,-, Pkw BMW 50.000,-, Darlehen bei der Deutschen Bank 130.000,-, Darlehen bei der HypoVereinsbank 200.000,-, Verbindlichkeiten 80.000,-
 
 **Inventar:**
 
@@ -124,7 +124,7 @@ Pkw Audi 30.000,-, Betriebsgebäude 500.000,-, Pkw Mercedes 40.000,-, Waren 50.0
 | 2 Forderungen aus Lieferungen und Leistungen |       4.000 |                                                              |             |
 | 3 Bank                                       |      25.000 |                                                              |             |
 | 4 Kasse                                      |       5.000 |                                                              |             |
-|                                              | **750.000** |                                                              | **730.000** |
+|                                              | **730.000** |                                                              | **730.000** |
 
 ### Aufgabe
 

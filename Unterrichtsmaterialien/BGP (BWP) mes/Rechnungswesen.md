@@ -69,7 +69,7 @@ Das Inventar besteht aus drei Teilen:
 
 - Ermittlung des Reinvermögens
 
-  - > Summe meines Vermögens - Summe Schulden = Reinvermögen
+  - ```Summe meines Vermögens - Summe Schulden = Reinvermögen```
 
   - = Eigenkapital des Unternehmens
 

@@ -32,7 +32,7 @@ Def.: Mengen- und wertmäßige Erfassung aller Vermögensgegenstände und Schuld
 
 - Körperliche Bestandsaufnahme
 
-  -> Zählen,  Essen, Wiegen
+  -> Zählen,  Messen, Wiegen
 
 - Buchmäßige Bestandsaufnahme
 
@@ -81,34 +81,34 @@ Pkw Audi 30.000,-, Betriebsgebäude 500.000,-, Pkw Mercedes 40.000,-, Waren 50.0
 
 **Inventar:**
 
-| Text                                          |       € |           € |
-| :-------------------------------------------- | ------: | ----------: |
-| A Vermögen                                    |         |             |
-| I Anlagevermögen                              |         |             |
-| 1. Gebäude                                    |         |     500.000 |
-| 2. Fuhrpark                                   |         |     145.000 |
-| a) Audi                                       |  30.000 |             |
-| b) BMW                                        |  50.000 |             |
-| e) Mercedes                                   |  40.000 |             |
-| d) Opel                                       |  25.000 |             |
-| II Umlaufvermögen                             |         |             |
-| 1. Waren                                      |         |      50.000 |
-| 2. Forderungen aus Lieferungen und Leistungen |         |       4.000 |
-| 3. Bank                                       |         |      25.000 |
-| 4. Kasse                                      |         |       6.000 |
-| Summe Vermögen                                |         | **730.000** |
-| B Schulden                                    |         |             |
-| I Langfristig                                 |         |             |
-| Darlehen                                      |         |     330.000 |
-| a) Deutsche Bank                              | 130.000 |             |
-| b) Darlehen bei der HypoVereinsbank           | 200.000 |             |
-| II Kurzfristig                                |         |             |
-| FLL                                           |         |      80.000 |
-| Summe Schulden                                |         |     410.000 |
-| C Reinvermögen                                |         |             |
-| Vermögen                                      |         |     730.000 |
-| Schulden                                      |         |     410.000 |
-| Eigenkapital                                  |         |     320.000 |
+| Text                                                 |       € |           € |
+| :--------------------------------------------------- | ------: | ----------: |
+| A Vermögen                                           |         |             |
+| I Anlagevermögen                                     |         |             |
+| 1. Gebäude                                           |         |     500.000 |
+| 2. Fuhrpark                                          |         |     145.000 |
+| a) Audi                                              |  30.000 |             |
+| b) BMW                                               |  50.000 |             |
+| e) Mercedes                                          |  40.000 |             |
+| d) Opel                                              |  25.000 |             |
+| II Umlaufvermögen                                    |         |             |
+| 1. Waren                                             |         |      50.000 |
+| 2. Forderungen aus Lieferungen und Leistungen        |         |       4.000 |
+| 3. Bank                                              |         |      25.000 |
+| 4. Kasse                                             |         |       6.000 |
+| Summe Vermögen                                       |         | **730.000** |
+| B Schulden                                           |         |             |
+| I Langfristig                                        |         |             |
+| Darlehen                                             |         |     330.000 |
+| a) Deutsche Bank                                     | 130.000 |             |
+| b) Darlehen bei der HypoVereinsbank                  | 200.000 |             |
+| II Kurzfristig                                       |         |             |
+| VLL (Verbindlichkeit aus Lieferungen und Leistungen) |         |      80.000 |
+| Summe Schulden                                       |         |     410.000 |
+| C Reinvermögen                                       |         |             |
+| Vermögen                                             |         |     730.000 |
+| Schulden                                             |         |     410.000 |
+| Eigenkapital                                         |         |     320.000 |
 
 ## Die Bilanz
 

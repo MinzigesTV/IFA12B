@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="UTF-8" />
+        <title>HTML in AWPP</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <style type="text/css">
+            footer a, footer a:link, footer a:visited, footer a:hover, footer a:active {
+                color: #808080;
+                font-size: smaller;
+                font-weight: bold;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="outer_container">
+            <!-- Kopfteil der Seite -->
+            <header>
+                <img src="logo.png" alt="Logo der BS Lichtenfels" />
+                <h1><span style="color: #006633">CSS</span> in AWPP</h1>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Startseite</a></li>
+                        <li><a href="#">HTML</a></li>
+                        <li><a href="css.html">CSS</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+            <!-- Hauptteil der Seite -->
+            <main>
+                <h2>CSS in HTML5-Dokumenten</h2>
+                <div id="introduction">
+                    <p>Dies ist ein Beispieldokument zur Veranschaulichung der wichtigsten Funktionen von Cascading Style Sheets.</p>
+                </div>
+                <div id="form">
+                    <form id="f_authenticate" method="GET" action="css.html">
+                        <label for="input_vorname" class="lab_a">Vorname: </label>
+                        <input id="input_vorname" class="inp_a" type="text" name="vorname" />
+                        <br />
+                        <label for="input_nachname" class="lab_a">Nachname: </label>
+                        <input id="input_nachname" class="inp_a" type="text" name="nachname" />
+                        <br />
+                        <label for="input_passwort" class="lab_a">Passwort: </label>
+                        <input id="input_passwort" class="inp_a" type="password" name="passwort" />
+                        <br />
+                        <input type="submit" value="Senden" style="margin-top: 1em;" />
+                    </form>
+                </div>
+            </main>
+
+            <!-- Fußteil der Seite -->
+            <footer>
+                <a href="#">Impressum</a> &#0150; <a href="#">Datenschutz</a>
+            </footer>
+
+        </div>
+    </body>
+</html>

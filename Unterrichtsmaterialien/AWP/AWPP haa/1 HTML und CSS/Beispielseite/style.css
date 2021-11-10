@@ -1,0 +1,53 @@
+body {
+    background-color: #808080;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+	background-color: #ededed;
+    margin: 0 -1em;
+    padding: 1em;
+}
+
+nav {
+}
+
+nav ul li {
+    display: inline-block;
+    background-color: #e0e0e0;
+    margin: 0 0.1em;
+    padding: 0.3em;
+}
+
+main {
+    min-height: 320px;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #ededed;
+}
+
+#outer_container {
+    background-color: white;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 1em;
+    text-align: left;
+}
+
+label.lab_a {
+    display: inline-block;
+    width: 100px;
+    font-size: smaller;
+}
+
+input.inp_a {
+    background-color: #fafafa;
+    font-family: 'Courier New', monospace;
+    color: #202020;
+    padding: 0.2em;
+    border-radius: 0.2em;
+}
